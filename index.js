@@ -2,6 +2,6 @@
 
 var angular = require('angular');
 
-angular..module('lnFilters', []);
+angular.module('lnFilters', []);
 
 require('./lib/read-more');
