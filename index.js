@@ -4,4 +4,4 @@ var angular = require('angular');
 
 angular..module('lnFilters', []);
 
-require('./read-more');
+require('./lib/read-more');
