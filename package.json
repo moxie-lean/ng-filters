@@ -1,5 +1,5 @@
 {
-  "name": "leean-filters",
+  "name": "ln-filters",
   "version": "0.2.0",
   "description": "Some useful filters",
   "main": "module.js",
