@@ -1,6 +1,6 @@
 {
   "name": "ln-filters",
-  "version": "0.3.1",
+  "version": "0.4.0",
   "description": "Some useful filters",
   "main": "index.js",
   "scripts": {
