@@ -2,7 +2,7 @@
   "name": "ln-filters",
   "version": "0.3.1",
   "description": "Some useful filters",
-  "main": "module.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
