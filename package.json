@@ -1,11 +1,18 @@
 {
   "name": "ln-filters",
-  "version": "0.4.2",
+  "version": "0.4.3",
   "description": "Some useful filters",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Moxie <developer@getmoxied.net> (https://getmoxied.net)",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/moxie-lean/ng-filters"
+  },
+  "bugs": {
+    "url": "https://github.com/moxie-lean/ng-filters/issues"
+  },
   "license": "MIT"
 }
