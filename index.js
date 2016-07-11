@@ -6,3 +6,4 @@ require('./lib/read-more');
 require('./lib/trusted');
 require('./lib/split-char');
 require('./lib/mailto');
+require('./lib/truncate-to-word');
